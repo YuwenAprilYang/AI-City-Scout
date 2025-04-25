@@ -4,8 +4,11 @@
 
 **Code:** [AI City Scout Python Code](https://github.com/YuwenAprilYang/AI-City-Scout/blob/0cb622488b10c9dcc4dc48572691838828ebc2bd/app.py)  
 **Report:** [AI City Scout Report](https://github.com/YuwenAprilYang/AI-City-Scout/blob/0cb622488b10c9dcc4dc48572691838828ebc2bd/AI%20City%20Scout%20Report.pdf)  
-**Team:** Yuwen (April) Yang, Wenjun Song, Xinxin Liu  
 **Tools:** Python, Streamlit, Random Forest, Isolation Forest, OpenAI GPT-4, Scikit-Learn, GeoPandas  
+### Collaborators
+- **Yuwen (April) Yang** — [GitHub](https://github.com/YuwenAprilYang) | [LinkedIn](https://linkedin.com/in/april-yang-yuwen)
+- ** Wenjun Song** - [GitHub](https://github.com/Wenjun-Charon) | [LinkedIn](https://www.linkedin.com/in/wenjun-song/)
+- ** Stephanie Liu** - [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/stephanie-liu24/)
 
 ## Executive Summary
 As natural disasters become more frequent and social misinformation spreads faster than emergency response systems can react, cities are left vulnerable.  
