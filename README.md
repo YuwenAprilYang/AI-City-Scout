@@ -2,7 +2,7 @@
   
 ### 🏆 First Prize Winner - Aggie Hackathon 2025
 
-**Code:** [AI City Scout Python Code](https://github.com/YuwenAprilYang/AI-City-Scout/blob/0cb622488b10c9dcc4dc48572691838828ebc2bd/app.py)
+**Code:** [AI City Scout Python Code](https://github.com/YuwenAprilYang/AI-City-Scout/blob/0cb622488b10c9dcc4dc48572691838828ebc2bd/app.py)  
 **Report:** [AI City Scout Report](https://github.com/YuwenAprilYang/AI-City-Scout/blob/0cb622488b10c9dcc4dc48572691838828ebc2bd/AI%20City%20Scout%20Report.pdf)  
 **Team:** Yuwen (April) Yang, Wenjun Song, Xinxin Liu  
 **Tools:** Python, Streamlit, Random Forest, Isolation Forest, OpenAI GPT-4, Scikit-Learn, GeoPandas  
